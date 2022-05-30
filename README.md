@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mgu-x
+- 👋 Hi, I’m @mgu-x 🦁️
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning language called Golang
 - 💞️ I’m looking to collaborate on front enginer
